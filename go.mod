@@ -1,4 +1,4 @@
-module github.com/patrikeh/go-deep
+module github.com/0xAP/go-deep
 
 go 1.13
 
